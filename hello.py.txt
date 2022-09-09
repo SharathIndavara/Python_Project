@@ -1,3 +1,4 @@
 "Sharath Welcomes you" 
 "This is the output from command line" 
-"Welcome to GIT" 
+"Welcome to GIT"
+"Hey Buddy this is the second commit" 
