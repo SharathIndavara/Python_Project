@@ -1,0 +1,3 @@
+"Sharath Welcomes you" 
+"This is the output from command line" 
+"Welcome to GIT" 
